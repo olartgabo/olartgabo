@@ -37,7 +37,7 @@
 ## 🌐 Socials:
 
 <p><a target="_blank" href="https://www.linkedin.com/in/gabriel-olarte-medrano-741aa331a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="[https://www.instagram.com/olart_gabo](https://www.instagram.com/olart_gabo/)" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/olart_gabo/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 # 📊 GitHub Stats:
 

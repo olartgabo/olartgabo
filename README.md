@@ -1,7 +1,9 @@
 <img src="Sin título-1.png" alt="GitHub Banner" width="200%" />
 
-# 💫 About Me:<br><br>Hi there, I'm Gabriel 👋<br><br>I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: IOI & ICPC participant, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)
+# 💫 About Me:<br><br>
+Hi there, I'm Gabriel 👋<br><br>I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: IOI & ICPC participant, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+
 # 💻 Tech Stack:
 
 ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +38,7 @@
 ![](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <p><a target="_blank" href="https://www.linkedin.com/in/gabriel-olarte-medrano-741aa331a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/olart_gabo/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
@@ -44,23 +46,23 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=olartgabo&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=olartgabo&theme=prussian&hide_border=true)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
-<br/>
+
 
 [](https://nirzak-streak-stats.vercel.app/?user=olartgabo&theme=prussian&hide_border=true)
 
-<br/>
+
 
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies <sub>(There are gonna get better I promise)</sub>
 ![](https://github-profile-trophy.vercel.app/?username=olartgabo&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Epic Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+##🐍🔲Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olartgabo/olartgabo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olartgabo/olartgabo/output/github-snake.svg" />

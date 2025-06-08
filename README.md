@@ -34,9 +34,17 @@
 ![](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🌐 Socials:
+
+<p><a target="_blank" href="https://www.linkedin.com/in/gabriel-olarte-medrano-741aa331a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="[https://www.instagram.com/olart_gabo](https://www.instagram.com/olart_gabo/)" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
 # 📊 GitHub Stats:
 
-[](https://github-readme-stats.vercel.app/api?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=olartgabo&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
@@ -46,9 +54,7 @@
 
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
-
-[](https://github-profile-trophy.vercel.app/?username=olartgabo&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=olartgabo&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

@@ -1,7 +1,7 @@
 <img src="Sin título-1.png" alt="GitHub Banner" width="200%" />
 
-# 💫 About Me:<br><br>
-Hi there, I'm Gabriel 👋<br><br>I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: IOI & ICPC participant, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)
+# 💫 Hello! I'm Gabriel 👋:<br><br>
+### I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, cheap jokes, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🎁 Orgulloso Ingeniero de Chistemas <br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: IOI & ICPC participant, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 # 💻 Tech Stack :
@@ -66,7 +66,7 @@ Hi there, I'm Gabriel 👋<br><br>I'm a Computer Science student at Universidad 
 ### ✍️ Epic Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-##🐍🔲Game
+## 🐍🔲Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olartgabo/olartgabo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olartgabo/olartgabo/output/github-snake.svg" />

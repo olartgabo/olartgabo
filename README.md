@@ -63,9 +63,9 @@ https://1drv.ms/p/c/e178fb8e4f8c6eb0/EWRKW6QaZJBPt3JVYSvV7MYBYu0Nc_guSNW3Vw-mhqo
 
 
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=olartgabo&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies <sub>(These are gonna get better I promise)</sub>
+<!-- ## 🏆 GitHub Trophies <sub>(These are gonna get better I promise)</sub>
 ![](https://github-profile-trophy.vercel.app/?username=olartgabo&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 ### ✍️ Epic Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 

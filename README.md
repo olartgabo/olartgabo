@@ -1,7 +1,7 @@
 <img src="Sin título-1.png" alt="GitHub Banner" width="200%" />
 
 # 💫 Hello! I'm Gabriel 👋:<br><br>
-### I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, cheap jokes, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🎁 Orgulloso Ingeniero de Chistemas <br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: IOI & ICPC participant, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)
+### I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, cheap jokes, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🎁 Orgulloso Ingeniero de Chistemas <br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: ICPC participant, Qualified for IOI, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)
 
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>

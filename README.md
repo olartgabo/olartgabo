@@ -1,4 +1,5 @@
 <img src="Sin título-1.png" alt="GitHub Banner" width="200%" />
+https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA
 
 # 💫 Hello! I'm Gabriel 👋:<br><br>
 ### I'm a Computer Science student at Universidad Privada Boliviana, passionate about algorithms, cybersecurity, and creative technology. I enjoy solving challenging problems, cheap jokes, building meaningful projects, and learning across disciplines—from physics to literature.<br><br>🎁 Orgulloso Ingeniero de Chistemas <br><br>🔭 Currently working on: AR Tour Guide (Augmented Reality app for cultural tourism) <br><br>🏆 Highlights: ICPC participant, Qualified for IOI, cybersecurity finalist, hackathon winner<br><br>🌱 Exploring: web animations, system design, and Linux customization (I use Arch btw)

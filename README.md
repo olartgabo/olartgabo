@@ -22,7 +22,7 @@ When I'm not shipping, I'm deep in AI agent architecture, MCP ecosystem design, 
 |---|---|---|
 | 🦟 **[Mosquit](https://github.com/olartgabo/mosquit)** | Environmental AI scanning system. **Top 500 / 25,000+** at Anthropic's Built with Claude Hackathon | Claude Agents, MCP, Python |
 | 🌐 **[CochaTech](https://cochatech.dev)** | Official site for Bolivia's largest hackathon — **1,100+ participants** in production | Astro, Tailwind, AWS |
-| 🤖 **Meliorem** | AI automation company I founded. **$500–$2K early revenue**, corporate clients, serverless AWS infra | Lambda, SQS, API Gateway |
+| 🤖 **Meliorem** | AI automation company I founded. **$2k–$5K early revenue**, corporate clients, serverless AWS infra | Lambda, SQS, API Gateway |
 | 📦 **Kutik Inventory** | B2B logistics platform live across **all 8 departments of Bolivia** | Node.js, PostgreSQL, AWS |
 | 🏋️ **MacroTracker** | Telegram bot running 24/7 on Raspberry Pi with local AI + full USDA nutritional dataset | Python, Telegram API, RPi |
 

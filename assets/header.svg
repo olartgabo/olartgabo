@@ -1,0 +1,31 @@
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>gabriel olarte</title>
+<desc>fullstack engineer at mcpjam, founder of meliorem</desc>
+<defs>
+<pattern id="gd" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.6" fill="#2A313B"/></pattern>
+<style>@keyframes pl{0%,100%{opacity:.22}50%{opacity:.95}}@keyframes dr{to{stroke-dashoffset:-16}}.s{animation:pl 3.4s ease-in-out infinite}.e{stroke-dasharray:2 6;animation:dr 2.6s linear infinite}@media (prefers-reduced-motion: reduce){.s,.e{animation:none}}</style>
+</defs>
+<rect x="0" y="0" width="680" height="160" rx="10" fill="#0D1117"/>
+<rect x="0" y="0" width="680" height="160" rx="10" fill="url(#gd)" opacity="0.55"/>
+<rect x="0.5" y="0.5" width="679" height="159" rx="10" fill="none" stroke="#20262E" stroke-width="1"/>
+<g stroke="#D97757" stroke-width="0.9" fill="none" opacity="0.5">
+<line class="e" x1="575" y1="80" x2="615" y2="80"/>
+<line class="e" x1="575" y1="80" x2="595" y2="45"/>
+<line class="e" x1="575" y1="80" x2="555" y2="45"/>
+<line class="e" x1="575" y1="80" x2="535" y2="80"/>
+<line class="e" x1="575" y1="80" x2="555" y2="115"/>
+<line class="e" x1="575" y1="80" x2="595" y2="115"/>
+</g>
+<circle cx="575" cy="80" r="40" fill="none" stroke="#21262D" stroke-width="0.8"/>
+<circle cx="615" cy="80" r="3.2" fill="#8B949E" class="s" style="animation-delay:0s"/>
+<circle cx="595" cy="45" r="3.2" fill="#8B949E" class="s" style="animation-delay:.45s"/>
+<circle cx="555" cy="45" r="3.2" fill="#8B949E" class="s" style="animation-delay:.9s"/>
+<circle cx="535" cy="80" r="3.2" fill="#8B949E" class="s" style="animation-delay:1.35s"/>
+<circle cx="555" cy="115" r="3.2" fill="#8B949E" class="s" style="animation-delay:1.8s"/>
+<circle cx="595" cy="115" r="3.2" fill="#8B949E" class="s" style="animation-delay:2.25s"/>
+<circle cx="575" cy="80" r="5.5" fill="#D97757"/>
+<text x="44" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34" font-weight="500" letter-spacing="1.5" fill="#E6EDF3">gabriel olarte</text>
+<rect x="45" y="78" width="46" height="2" fill="#D97757"/>
+<text x="44" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8B949E">fullstack engineer @ mcpjam  ·  founder, meliorem</text>
+<text x="44" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#6E7681">mcp architecture · agent systems · aws · cochabamba, bo</text>
+</svg>

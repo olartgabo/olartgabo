@@ -1,77 +1,34 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="gabriel olarte — fullstack engineer @ mcpjam"/>
+<img src="./assets/header.svg" width="100%" alt="Gabriel Olarte — software engineer building agent infrastructure at MCPJam"/>
 
-<br><br>
-
-[**olartgabo.dev**](https://olartgabo.dev) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/gabriel-olarte-medrano-741aa331a/) &nbsp;·&nbsp; [**olartgabo@gmail.com**](mailto:olartgabo@gmail.com)
+[**Work**](https://olartgabo.dev) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/gabriel-olarte-medrano-741aa331a/) &nbsp;·&nbsp; [**Email**](mailto:olartgabo@gmail.com)
 
 </div>
 
-<br>
+## I build developer tools for AI agents.
 
-I build systems that run in production and stay there.
+**Software Engineer & Bolivia Site Lead at [MCPJam](https://mcpjam.com).** I work on the [open-source Inspector](https://github.com/MCPJam/inspector) and the Model Context Protocol ecosystem. I joined the team after contributing MCP servers independently.
 
-Right now that means **fullstack engineering at [MCPJam](https://mcpjam.com)**, working on tooling for the Model Context Protocol ecosystem — I contributed MCP servers to the project as an outside contributor before joining the team. Alongside that I run **Meliorem**, an AI automation company with paying corporate clients on serverless AWS infrastructure.
+Recent merged work includes [SDK test-harness build](https://github.com/MCPJam/inspector/pull/6002), [API error handling](https://github.com/MCPJam/inspector/pull/5747), and [dependency security fixes](https://github.com/MCPJam/inspector/pull/6100). [More contributions →](https://github.com/MCPJam/inspector/pulls?q=is%3Apr+author%3Aolartgabo)
 
-Before this: represented Bolivia at **IOI 2025**, reached the **ICPC Latin America regional finals**, and founded the **first official AWS Cloud Club in Bolivia**.
+I also founded **Meliorem**, an AI automation studio delivering systems for corporate clients on event-driven AWS infrastructure.
 
-<br>
+## Things you can inspect
 
----
+| Project | What I'm building |
+| :--- | :--- |
+| **[VELA](https://github.com/olartgabo/vela)** | Vector search written from scratch in **Rust**: HNSW, product quantization, SIMD kernels, persistent storage, and agent memory over MCP. Early-stage systems work. |
+| **[Design DNA MCP](https://github.com/olartgabo/design-dna-mcp)** | Capture websites with Playwright, extract UI patterns with Claude, and search a curated SQLite library through MCP. |
+| **[NetPilot](https://github.com/olartgabo/netpilot)** | A network-policy studio with deterministic ACL evaluation, explainable traffic decisions, and policy-change comparisons. |
+| **[boxMouse](https://github.com/olartgabo/boxMouse)** | An Xbox controller as a Windows mouse, terminal control surface, and window-management remote. Python's standard library and native Windows APIs. |
 
-## Selected work
+More system architecture and project context: **[olartgabo.dev](https://olartgabo.dev)**. Agent-readable profile: **[llms.txt](https://olartgabo.dev/llms.txt)**.
 
-| | | |
-|---|---|---|
-| **[MCPJam](https://mcpjam.com)** | Developer tooling for the Model Context Protocol. Contributed MCP servers to the open-source ecosystem, then joined full-time. | TypeScript · React · MCP |
-| **Meliorem** | AI automation studio I founded. Corporate clients in production on event-driven AWS. | Lambda · SQS · API Gateway |
-| **[Mosquit](https://github.com/olartgabo/mosquit)** | Environmental AI scanning system. **Top 500 of 25,000+** at Anthropic's Built with Claude hackathon. | Claude Agents · MCP · Python |
-| **[CochaTech](https://cochatech.dev)** | Platform behind Bolivia's largest hackathon. **1,100+ participants** served in production. | Astro · Tailwind · AWS |
-| **XploRA** | AR tourism platform with an active user base. Incubator prize winner. | React Native · AR · Node.js |
-| **Kutik Inventory** | B2B logistics platform deployed across **8 departments of Bolivia**. | Node.js · PostgreSQL · AWS |
-| **MercadoFuturo** | Prediction market built for LATAM — Polymarket-shaped, adapted to local payment rails. | TypeScript · PostgreSQL |
-| **Javier** | Self-hosted AI assistant on a Raspberry Pi 5. Local LLM with a self-extending MCP tool layer. | Python · MCP · local inference |
+## How I work
 
-<br>
+I move between the interface and the system behind it: TypeScript and React for developer tools, Rust for search infrastructure, Python for automation, and AWS for application delivery. Competitive programming shaped how I reason about algorithms and constraints; client work made deployment and maintenance part of the job.
 
----
+I founded the AWS Cloud Club at UPB and help build the student AWS community in Bolivia. I'm studying Systems Engineering at Universidad Privada Boliviana.
 
-## Competitive programming
-
-```
-IOI 2025          national representative, Bolivia
-Ibero-American OI top 8 nationally
-ICPC              Latin America regional finalist
-```
-
-<br>
-
----
-
-## Stack
-
-```
-languages    TypeScript · Python · C++ · Java
-ai/agents    Claude API · Model Context Protocol · LangChain · PyTorch
-web          React · Astro · Node.js · Tailwind
-cloud        AWS (Lambda, SQS, API Gateway, S3) · Docker · PostgreSQL
-```
-
-Certified through Anthropic on MCP, subagents, the Claude API, and Claude Code (7 certificates), plus AWS certification scholarships and Pearson C1 English.
-
-<br>
-
----
-
-## Currently
-
-Reliable, composable multi-agent systems — the part of MCP architecture where tool composition stops being a demo and starts being infrastructure. Also thinking about why LATAM payment rails are still this fragmented, and about quantum computing, which is where I'd like to end up doing research.
-
-<br>
-
-<div align="center">
-
-<sub>Open to conversations about agent infrastructure, MCP, and hard problems in LATAM tech.</sub>
-
-</div>
+**Cochabamba, Bolivia · UTC−4.** Open to conversations about developer tools, agent infrastructure, and software for LATAM.

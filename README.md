@@ -8,7 +8,7 @@
 
 ## I build developer tools for AI agents.
 
-**Software Engineer & Bolivia Site Lead at [MCPJam](https://mcpjam.com).** I work on the [open-source Inspector](https://github.com/MCPJam/inspector) and the Model Context Protocol ecosystem. I joined the team after contributing MCP servers independently.
+**Software Engineer & Bolivia Founding Engineer at [MCPJam](https://mcpjam.com).** I work on the [open-source Inspector](https://github.com/MCPJam/inspector) and the Model Context Protocol ecosystem. I joined the team after contributing MCP servers independently.
 
 Recent merged work includes [SDK test-harness build](https://github.com/MCPJam/inspector/pull/6002), [API error handling](https://github.com/MCPJam/inspector/pull/5747), and [dependency security fixes](https://github.com/MCPJam/inspector/pull/6100). [More contributions →](https://github.com/MCPJam/inspector/pulls?q=is%3Apr+author%3Aolartgabo)
 

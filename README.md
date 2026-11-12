@@ -9,7 +9,7 @@
 ## I build developer tools for AI agents.
 
 
-https://claude.ai/artifact/W6PVbQHGbthySFVJpx6Hgv#slide-3dd33bdac6c2
+https://claude.ai/artifact/HN6783bD5ue9A1hENvbsFz#s1
 
 **Software Engineer & Bolivia Founding Engineer at [MCPJam](https://mcpjam.com).** I work on the [open-source Inspector](https://github.com/MCPJam/inspector) and the Model Context Protocol ecosystem. I joined the team after contributing MCP servers independently.
 
